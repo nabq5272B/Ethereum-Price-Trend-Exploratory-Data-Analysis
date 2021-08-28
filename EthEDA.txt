@@ -1,0 +1,9 @@
+Steps to follow:
+- Select a real world dataset from kaggle
+- Perform data preparation and cleaning using Pandas & Numpy
+- Perform the EDA and visualization using Matplotlib and Seaborn
+- Ask and answer questions about the data in a Jupyter notebook
+- Summarize your inferences & write a conclusion
+- Document, publish and present your jupyter notebook online
+
+Link: https://www.kaggle.com/varpit94/ethereum-data
